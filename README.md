@@ -2,3 +2,5 @@
 Meus Projetos no Git e GitHub
 
 Repositorio criado no dia 12/10/2026
+
+linha adicionada remotamente!
